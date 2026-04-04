@@ -1,4 +1,4 @@
-# GPT-Generative-pretrained-transformer-
+# GPT-Generative-pretrained-transformer
 In this project i have implemented a character level gpt style transformer from scratch using pytorch.  
 The model created learns to predict the next character given the current character using embedding lookup.
 ## you can download the dataset from this link: -  
